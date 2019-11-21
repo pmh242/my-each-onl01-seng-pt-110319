@@ -1,5 +1,3 @@
-def my_each # put argument(s) here
-  while
-  
-  end
+def my_each(while) # put argument(s) here
+
 end
