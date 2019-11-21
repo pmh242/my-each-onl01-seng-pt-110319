@@ -1,4 +1,4 @@
-def my_each(array) # put argument(s) here
+def my_each(array)
   x = 0
   
   while x < array.length
