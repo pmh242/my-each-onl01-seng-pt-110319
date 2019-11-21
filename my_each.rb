@@ -3,7 +3,6 @@ def my_each(words) # put argument(s) here
   while words do
   
   
-  end
-    
+    end
   end
 end
